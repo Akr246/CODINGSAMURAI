@@ -1,7 +1,7 @@
 # CODINGSAMURAI INTERNSHIP
-Codingsamurai datascience internship project portfolio
-DATA SCIENCE INTERNSHIP (TASK 3)
-Project Title: Spam Email Classifier
+#Codingsamurai datascience internship project portfolio
+#DATA SCIENCE INTERNSHIP (TASK 3)
+#Project Title: Spam Email Classifier
 Project Description: Create a machine learning model that can classify emails as spam or not spam (ham). This project will introduce you to text classification and binary classification tasks, commonly used in natural language processing (NLP).
 Steps you can Implement:
 Data Collection: Gather a dataset of emails labeled as spam or ham. You can find publicly available email datasets online, such as the Enron Spam Dataset or datasets on Kaggle.
